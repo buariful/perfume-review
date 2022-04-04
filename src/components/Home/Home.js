@@ -19,10 +19,10 @@ const Home = () => {
                 </div>
             </div>
             <div>
-                <h1 className='mt-20 font-semibold mb-6 text-4xl'>Reviews</h1>
+                <h1 className='mt-20 font-semibold mb-6 text-4xl'> Reviews</h1>
                 <button className='bg-red-600 text-white py-2 px-7 rounded-md mt-4 hover:bg-slate-200 hover:text-red-600 font-semibold transition-all duration-500'>Sell all reviews</button>
             </div>
-        </div>
+        </div >
     );
 };
 

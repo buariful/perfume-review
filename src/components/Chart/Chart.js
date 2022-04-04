@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react';
-import { Area, AreaChart, Bar, BarChart, CartesianGrid, ComposedChart, Legend, Line, ResponsiveContainer, Tooltip, XAxis, YAxis, } from 'recharts';
+import { Area, AreaChart, Bar, BarChart, ComposedChart, Legend, Line, Tooltip, XAxis, YAxis, } from 'recharts';
 
 
 const Chart = () => {
-    const [data, setdata] = useState([]);
+    const [data, setData] = useState([]);
     useEffect(() => {
         fetch('data.json')
             .then(data => data.json())
-            .then(res => setdata(res));
+            .then(res => setData(res));
     }, [])
 
     const perfumeData = data;
@@ -52,7 +52,7 @@ const Chart = () => {
                         <YAxis />
                         <Tooltip />
                         <Legend />
-                        <Area type="monotone" dataKey="revenue" stackId="1" stroke=" rgb(5 150 105)" fill="rgb(252 165 165)" />
+                        <Area type="monotone" dataKey="revenue" stackId="1" stroke=" rgb(5 150 105)" fill="rgb(52 211 153)" />
                         <Area type="monotone" dataKey="investment" stackId="1" stroke="rgb(56 189 248)" fill="rgb(239 68 68)" />
                     </AreaChart>
                 </div>
