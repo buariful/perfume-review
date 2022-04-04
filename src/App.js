@@ -12,7 +12,7 @@ function App() {
       <Nav></Nav>
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='/dashbord' element={<Chart />} />
+        <Route path='/dashboard' element={<Chart></Chart>}></Route>
         <Route path='/blog' element={<Blog />} />
         <Route path='*' element={<NotFound />} />
       </Routes>

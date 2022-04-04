@@ -10,7 +10,8 @@ const Home = () => {
 
                     </h1>
                     <h3 className='text-2xl font-medium mb-3'>Original Al Haramain Mukhallath Al Zahara Perfume</h3>
-                    <p className='text-gray-300 leading-6'>With the mesmerizing fragrance of Alf Zahra, make every word you speak seem like poetry and every small step you take to feel like an articulate performance. And once you’re done enthralling your mind and soul, take a bow and bask in the applause of a thousand flowers!Now, this Al Haramain Mukhallath Al Zahara Perfume is available in all over the world.</p>
+                    <p className='text-gray-300 leading-6 mb-6'>With the mesmerizing fragrance of Alf Zahra, make every word you speak seem like poetry and every small step you take to feel like an articulate performance. And once you’re done enthralling your mind and soul, take a bow and bask in the applause of a thousand flowers!Now, this Al Haramain Mukhallath Al Zahara Perfume is available in all over the world.</p>
+
                     <button className='bg-red-600 text-white py-3 px-7 rounded-md mt-4 hover:bg-slate-200 hover:text-red-600 font-semibold transition-all duration-500'>Reviews</button>
                 </div>
                 <div className="md:w-1/3">

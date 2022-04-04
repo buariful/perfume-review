@@ -1,5 +1,5 @@
 import React from 'react';
-import { AcademicCapIcon, BeakerIcon, BookmarkIcon } from '@heroicons/react/solid'
+import { AcademicCapIcon, } from '@heroicons/react/solid'
 
 const Blog = () => {
     return (
