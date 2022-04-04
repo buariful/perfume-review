@@ -6,7 +6,7 @@ const Home = () => {
             <div className='md:flex items-center justify-between gap-10 w-11/12 m-auto mt-16'>
                 <div className="md:w-2/3 md:text-left  pr-6">
                     <h1 className='font-bold font-sans text-5xl mb-8'>
-                        Ours one of the best <span className='text-red-500'>PERFUME</span>.
+                        Ours one of the best <span className='text-red-500'>PERFUME</span> .
 
                     </h1>
                     <h3 className='text-2xl font-medium mb-3'>Original Al Haramain Mukhallath Al Zahara Perfume</h3>

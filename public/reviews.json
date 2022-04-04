@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "img": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/IQ-Accountants-managing-partner-Kyelie-Baxter-Slack-customer-story.IN.jpg",
+        "name": "ema clerk",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    },
+    {
+        "id": 2,
+        "img": "https://cdn.pixabay.com/photo/2014/07/09/10/04/man-388104_640.jpg",
+        "name": "Md: Zahidur Rahman",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    },
+    {
+        "id": 3,
+        "img": "https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg",
+        "name": "Aya Nikola",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    },
+    {
+        "id": 4,
+        "img": "https://static.generated.photos/vue-static/face-generator/landing/wall/23.jpg",
+        "name": "Mr. Dundar",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    },
+    {
+        "id": 5,
+        "img": "https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg",
+        "name": "Bill Gates",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    },
+    {
+        "id": 6,
+        "img": "https://st.depositphotos.com/2069323/2156/i/600/depositphotos_21568765-stock-photo-casual-businessman-pointing.jpg",
+        "name": "Mr. Jay White",
+        "review": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'"
+    }
+]
