@@ -9,7 +9,6 @@ import ReviewPage from './components/ReviewPage/ReviewPage';
 function App() {
   return (
     <div className="App">
-      <ReviewPage></ReviewPage>
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/home' element={<Home />} />
